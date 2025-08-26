@@ -1,1 +1,1 @@
-# sih
+# Smarrt India Hackathon
